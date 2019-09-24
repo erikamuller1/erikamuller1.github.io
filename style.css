@@ -20,6 +20,7 @@ body {
   color: #33485e;
   text-transform: uppercase;
   letter-spacing: 0.4em;
+  border-bottom: 1px; color: black
 }
 
 h1 {

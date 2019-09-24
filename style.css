@@ -1,22 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Erika Muller</title>
+  <title> Erika Muller </title>
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
-
 <body>
-  div {
-  style="max-width: 800px; text-align: center;top: 20px; bottom: 20px
-  font-family: "Times New Roman", Times, serif;
-  }
-  <div class="center-top-content"
-    <title> Erika Muller </title>
-    .center{
-      text-align: center;
-      border: 3px solid blue
-    }
-  </div>
-</body>
 
+<div class="center-top-content">
+  <h1>Centered content</h1>
+  <p>center content</p>
+
+
+
+
+</body>
 </html>

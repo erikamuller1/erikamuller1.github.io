@@ -40,6 +40,9 @@ h6 {
   font-family: "Open sans", sans-serif;
   text-align: left;
 }
+.h_line{
+  width: 80%
+}
 
 .nav{
   list-style: none;

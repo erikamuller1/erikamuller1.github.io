@@ -12,16 +12,17 @@ body {
   margin-bottom: 20px;
   margin-top: 20px
 }
+
+.center-top-content{
+  border-bottom: 2px;
+  text-align: center;
+}
+
 H1 {
   font-size: 36px;
   color:#33485e;
   text-transform: uppercase;
   letter-spacing: 1px
-}
-
-.center-top-content{
-  border-bottom: 3px;
-  text-align: center;
 }
 
 p,
@@ -42,17 +43,6 @@ h6 {
   content: "|"
 }
 
-li{
-  float: left;
-}
-
-li a {
-  display:block;
-  color: black;
-  text-align: center;
-  padding: 10px;
-  text-decoration: none;
-}
 
 .personal-title {
   text-align: center;
@@ -74,7 +64,7 @@ img{
   max-height: 33%;
 }
 
-.highlight-this {
+.highlight-this{
   background color: #33485e;
   padding-bottom: 3px;
   padding-top: 3px;
@@ -88,6 +78,10 @@ h2{
 color: white;
 padding: 5px;
 background-color: #33485e;
+}
+
+h3{
+font-weight: normal;
 }
 
 h4 {

@@ -124,6 +124,23 @@ font-weight: normal;
   font-size: 14px;
 }
 
+.volunteer{
+  border-bottom: 1px
+  solid: black
+}
+.ambassador{
+  border-bottom: 1px
+  solid: black
+}
+.Writer{
+  border-bottom: 1px
+  solid: black
+}
+
+.intern{
+  border-bottom: 1px
+  solid: black
+}
 
 </body>
 </html>

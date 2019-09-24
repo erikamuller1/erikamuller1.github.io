@@ -53,10 +53,12 @@ h6 {
 }
 .nav li{
   display: inline;
+  content: "|"
 }
 .nav a{
   display: inline-block;
   padding: 10px
+  content: "|"
 }
 
 .personal-title {

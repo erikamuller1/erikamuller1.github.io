@@ -16,7 +16,11 @@
   <p>center content</p>
 
 h2{
+  color: white
+  padding: 5px
   font-family: Roboto sans-serif;
+  background-color: #33485e
+
 }
 
 ul.navbar {
@@ -24,6 +28,8 @@ ul.navbar {
   padding: 10px
   content:"|"
 }
+
+
 
 
 

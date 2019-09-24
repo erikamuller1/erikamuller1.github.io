@@ -33,11 +33,34 @@ h6 {
   font-family: "Roboto", sans-serif;
 }
 
+ul{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  content:"|"
+}
+
+li{
+  float: left;
+}
+
+li a {
+  display:block;
+  color: black;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.personal-title {
+  text-align: center;
+  font-style: italic;
+}
 h2{
-color: white
-padding: 5px
-font-family: Roboto sans-serif;
-background-color: #33485e
+color: white;
+padding: 5px;
+background-color: #33485e;
 }
 
 h4 {
@@ -49,11 +72,6 @@ font-style: italic;
 font-weight: normal;
 }
 
-.contact{
-list-style-type: none;
-padding: 10px
-content:"|"
-}
 
 </body>
 </html>

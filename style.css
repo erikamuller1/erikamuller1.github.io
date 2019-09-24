@@ -5,7 +5,11 @@
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-
+body{
+  text-align: center;
+  margin-bottom: 20px
+  margin-top: 20px
+}
 <div class="center-top-content">
   <h1>Centered content</h1>
   <p>center content</p>

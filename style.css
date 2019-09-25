@@ -83,6 +83,7 @@ h6 {
 img{
   float: right;
   max-width: 33%;
+  padding: inherit;
 }
 
 .intro {

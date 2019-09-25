@@ -39,7 +39,8 @@ p{
 
 img{
   float: right;
-  max-width: 33%;
+  max-width: 600px;
+  width: 100%;
 }
 
 

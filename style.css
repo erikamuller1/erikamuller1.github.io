@@ -39,6 +39,7 @@ p{
 
 img{
   float: right;
+  max-width: 33%;
 }
 
 
@@ -51,9 +52,6 @@ h5,
 h6 {
   font-family: "Open sans", sans-serif;
   text-align: left;
-}
-.h_line{
-  width: 80%;
 }
 
 .nav{
@@ -74,12 +72,22 @@ h6 {
 .personal-title {
   text-align: center;
   font-style: italic;
-  color:grey;
+  color: grey;
 }
 
 .main-content{
   width: 80%;
   text-align: center;
+}
+
+.highlight{
+  background-color: #33485e;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: white;
+  font-weight: bold;
 }
 
 h2{
@@ -101,6 +109,7 @@ h5 {
 font-style: italic;
 font-weight: normal;
 }
+
 
 .container-expereince h1, h2, h3, h4, h5, h6{
   margin-top: 5px;

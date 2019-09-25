@@ -79,12 +79,13 @@ h6 {
 
 .intro {
   line-height: 1.0;
-  overflow: visible; 
+  overflow: visible;
 }
 
 img{
   float: right;
   max-width: 33%;
+  overflow: visible;
 }
 
 .highlight-this {

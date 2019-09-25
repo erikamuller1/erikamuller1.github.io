@@ -81,13 +81,7 @@ img{
 }
 
 
-.highlight-this {
-  background-color: #33485e;
-  padding-bottom: 3px;
-  padding-top: 3px;
-  padding-left: 5px;
-  padding-right: 5px;
-  color: white;
+.description{
   word-wrap: normal;
 }
 

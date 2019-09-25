@@ -33,12 +33,17 @@ h1 {
   text-align: center;
 }
 
-p{
+.intro p{
   word-wrap: normal;
-  font-family: "Open sans", sans-serif;
-  font-size: 14px;
 }
 
+.intro img{
+  float: right;
+}
+
+.intro {
+    line-height: 1.0;
+}
 
 p,
 h1,
@@ -78,19 +83,6 @@ h6 {
 .main-content{
   width: 80%;
   text-align: center;
-}
-
-img{
-  float: right;
-  max-width: 33%;
-  padding-top: 5px;
-  padding-left: 5px;
-  padding-right: 5px;
-  padding-bottom: 5px;
-}
-
-.intro {
-  line-height: 1.0;
 }
 
 h2{

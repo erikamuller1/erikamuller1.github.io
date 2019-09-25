@@ -23,6 +23,8 @@ body {
   border-bottom: 1px; color: black
 }
 
+
+
 h1 {
   font-size: 36px;
   color:#33485e;
@@ -30,6 +32,13 @@ h1 {
   letter-spacing: 0.6em;
   text-align: center;
 }
+
+p{
+  word-wrap: normal;
+  font-family: "Open sans", sans-serif;
+  font-size: 14px;
+}
+
 
 p,
 h1,
@@ -79,11 +88,6 @@ img{
 .intro {
   line-height: 1.0;
 }
-
-.description{
-  word-wrap: normal;
-}
-
 
 h2{
 color: white;

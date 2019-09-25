@@ -83,7 +83,10 @@ h6 {
 img{
   float: right;
   max-width: 33%;
-  padding: inherit;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
 }
 
 .intro {

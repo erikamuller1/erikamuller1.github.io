@@ -10,7 +10,7 @@ body {
   font-family: 'Merriweather',serif;
   text-align: center;
   margin-bottom: 20px;
-  margin-top: 20px
+  margin-top: 20px;
 }
 
 .center-top-content{
@@ -127,14 +127,9 @@ font-weight: normal;
   font-size: 14px;
 }
 
-hr{
-  display: block;
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-  margin-left: auto;
-  margin-right: auto;
-  border-style: inset;
-  border-width: 1px;
+.line-separator{
+  border-bottom: 1px
+  color: black
 }
 
 </body>

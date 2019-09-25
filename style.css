@@ -33,10 +33,7 @@ h1 {
   letter-spacing: 0.6em;
   text-align: center;
 }
-p.highlight-this{
-  word-wrap: normal;
-  font-size: 20px;
-}
+
 p,
 h1,
 h2,
@@ -75,15 +72,20 @@ h6 {
 }
 
 
-.intro {
+.intro{
   line-height: 1.0;
   overflow: visible;
 }
 
-img{
+.intro img{
   float: right;
   max-width: 33%;
   overflow: visible;
+}
+
+.intro p{
+  word-wrap: normal;
+  font-size: 20px
 }
 
 .highlight-this {

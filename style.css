@@ -33,12 +33,10 @@ h1 {
   letter-spacing: 0.6em;
   text-align: center;
 }
-
 p.highlight-this{
   word-wrap: normal;
-  font-size: 30px;
+  font-size: 20px;
 }
-
 p,
 h1,
 h2,

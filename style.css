@@ -76,15 +76,16 @@ h6 {
   text-align: center;
 }
 
+
+.intro {
+  line-height: 1.0;
+  overflow: visible; 
+}
+
 img{
   float: right;
   max-width: 33%;
 }
-
-.intro {
-  line-height: 1.0;
-}
-
 
 .highlight-this {
   background-color: #33485e;

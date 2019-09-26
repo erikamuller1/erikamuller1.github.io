@@ -97,6 +97,7 @@ h5{
 .container-expereince h2,.container-expereince h3, .container-expereince h4, .container-expereince h5{
   margin-top: 5px;
   margin-bottom: 5px;
+  overflow: auto;
 }
 
 .container-expereince p{

@@ -22,9 +22,6 @@ body {
   font-style: italic;
 }
 
-h1, h2, h3, h4, h5, h6{
-  font-family: 'Montserrat', sans-serif;
-}
 
 h1 {
   color:#33485e;
@@ -43,13 +40,14 @@ h3{
   font-weight: normal;
 }
 
-h4,h5{
-  font-weight:400;
-}
 
 h5{
   font-style: italic;
   font-size: 20px;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Montserrat', sans-serif;
 }
 
 #nav-links{

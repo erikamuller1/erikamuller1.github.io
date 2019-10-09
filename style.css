@@ -29,7 +29,7 @@ h1 {
 }
 
 h2{
-  background-color: #33485e;
+  background-color: #ffe6f2;
   color: white;
   padding: 5px;
 }
@@ -82,10 +82,9 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .highlight {
-  background-color: #33485e;
+  background-color: #ffe6f2;
   padding: 3px 5px;
   color: white;
-  font-weight: bold;
 }
 
 .container-expereince h2,.container-expereince h3, .container-expereince h4, .container-expereince h5{

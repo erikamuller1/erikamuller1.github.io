@@ -1,3 +1,8 @@
+body{
+  max-width: 800px;
+  text-align: center;
+  margin: auto;
+}
 .center-top-content{
   border-bottom: 1px solid grey;
   text-align: center;
@@ -18,12 +23,20 @@
 h2{
   color: black;
   font-family: 'Noto Serif KR', serif;
-  font-size: 150%;
+  font-size: 20px;
+  padding-top: 80px;
+  text-align: left;
+  text-decoration-line: line-through;
+  text-decoration-color: #4290f5;
+  padding-left: 10px;
 }
 
 h3{
   font-family: 'Noto Serif KR', serif;
   font-size: 15px;
+  text-align: left;
+  font-weight: lighter;
+  padding-left: 10px;
 }
 
 h5{
@@ -84,10 +97,10 @@ h5{
 h1 {
   color:black;
   text-transform: uppercase;
-  letter-spacing: 2px;
+  letter-spacing: 3px;
   font-family: 'Noto Serif KR', serif;
-  font-size: 100px;
   float: left;
+  content: "|";
 }
 
 .jumbotron{
@@ -102,6 +115,7 @@ h1 {
   font-weight: lighter;
   letter-spacing: 1px;
   float: right;
+  font-size: 10px;
 }
 
 .hr{
@@ -112,3 +126,7 @@ h1 {
   font-size: 30px;
   font-weight: bolder;
 }
+
+.vl {
+  border-right: 1px solid black;
+  height: 50px;
